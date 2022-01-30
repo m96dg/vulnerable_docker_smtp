@@ -8,4 +8,4 @@ Per maggiori informazioni: **https://github.com/zooniverse/docker-postfix**
 
 Credits to: **https://github.com/zooniverse**
 
-DockerHub Link: **https://hub.docker.com/repository/docker/m96dg/pw_smtp_postfix**
+DockerHub Link: **https://hub.docker.com/r/m96dg/pw_smtp_postfix**
